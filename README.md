@@ -24,7 +24,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://matejadb.github.io/recipe-page/)
+- Live Site URL: [https://matejadb.github.io/recipe-page/](https://matejadb.github.io/recipe-page/)
 
 ## My process
 
