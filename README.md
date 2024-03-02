@@ -40,7 +40,7 @@ I got more comfortable coding without following a tutorial.
 
 ### Useful resources
 
-- [Resource 1](https://www.w3schools.com/) - Helped me with building the website.
+- [W3Schools](https://www.w3schools.com/) - Helped me with building the website.
 
 ## Author
 
