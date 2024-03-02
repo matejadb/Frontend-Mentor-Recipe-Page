@@ -23,7 +23,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/recipe-page-using-flexbox-tTropFUL9j](https://www.frontendmentor.io/solutions/recipe-page-using-flexbox-tTropFUL9j)
 - Live Site URL: [https://matejadb.github.io/recipe-page/](https://matejadb.github.io/recipe-page/)
 
 ## My process
